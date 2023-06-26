@@ -10,8 +10,8 @@ namespace FunctionalProgram
     {
         static void Main(string[] args)
         {
-            FlipCoin flipcoin = new FlipCoin();
-            flipcoin.Percentage();
+            LeapYear year = new LeapYear();
+            year.CheckYear();
         }
     }
 }
