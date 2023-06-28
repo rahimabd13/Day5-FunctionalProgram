@@ -10,8 +10,8 @@ namespace FunctionalProgram
     {
         static void Main(string[] args)
         {
-           HarmonicNumber harmonicnumber = new HarmonicNumber();
-            harmonicnumber.Harmonic();
+           Factors factors = new Factors();
+            factors.Factor();
         }
     }
 }
