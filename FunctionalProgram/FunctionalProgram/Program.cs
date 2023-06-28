@@ -10,8 +10,8 @@ namespace FunctionalProgram
     {
         static void Main(string[] args)
         {
-           PowerOfTwo poweroftwo = new PowerOfTwo();
-            poweroftwo.Power();
+           HarmonicNumber harmonicnumber = new HarmonicNumber();
+            harmonicnumber.Harmonic();
         }
     }
 }
