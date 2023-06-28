@@ -10,8 +10,8 @@ namespace FunctionalProgram
     {
         static void Main(string[] args)
         {
-            LeapYear year = new LeapYear();
-            year.CheckYear();
+           PowerOfTwo poweroftwo = new PowerOfTwo();
+            poweroftwo.Power();
         }
     }
 }
