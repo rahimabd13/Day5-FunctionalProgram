@@ -10,8 +10,8 @@ namespace FunctionalProgram
     {
         static void Main(string[] args)
         {
-           Factors factors = new Factors();
-            factors.Factor();
+           QuotientAndRemainder quotientremainder = new QuotientAndRemainder();
+            quotientremainder.Calculate();
         }
     }
 }
