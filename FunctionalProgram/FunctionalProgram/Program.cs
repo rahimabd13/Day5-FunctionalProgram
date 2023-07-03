@@ -10,8 +10,8 @@ namespace FunctionalProgram
     {
         static void Main(string[] args)
         {
-           QuotientAndRemainder quotientremainder = new QuotientAndRemainder();
-            quotientremainder.Calculate();
+            OddOrEven oddeven = new OddOrEven();
+            oddeven.Calculate();
         }
     }
 }
