@@ -10,8 +10,8 @@ namespace FunctionalProgram
     {
         static void Main(string[] args)
         {
-            Quotient_Remainder quotientremainder = new Quotient_Remainder();
-            quotientremainder.Calculate();
+            SwapTwoNumbers swap = new SwapTwoNumbers();
+            swap.Swapping();
         }
     }
 }
