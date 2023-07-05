@@ -10,8 +10,8 @@ namespace FunctionalProgram
     {
         static void Main(string[] args)
         {
-            Vowel_Consonant vowelconsonant = new Vowel_Consonant();
-            vowelconsonant.CheckAlphabet();
+            LargestNumber largestnumber = new LargestNumber();
+            largestnumber.Find();
         }
     }
 }
