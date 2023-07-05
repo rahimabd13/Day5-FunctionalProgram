@@ -10,8 +10,8 @@ namespace FunctionalProgram
     {
         static void Main(string[] args)
         {
-            SwapTwoNumbers swap = new SwapTwoNumbers();
-            swap.Swapping();
+            Vowel_Consonant vowelconsonant = new Vowel_Consonant();
+            vowelconsonant.CheckAlphabet();
         }
     }
 }
